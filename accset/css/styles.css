@@ -33,7 +33,7 @@ html {
 }
 
 #background-video {
-    background-image: url("accset/img/err.gif");
+    background-image: url("../img/err.gif");
     background-size: contain;
     background-position: center;
     position: absolute;
