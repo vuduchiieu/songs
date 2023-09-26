@@ -1,4 +1,4 @@
-const hello = console.log(
+const hello = console.warn(
     "%c\ud83d\ude4b welcome to my Mindx project",
     "color: #29c4a9;font-size: 16px;font-weight: 600;"
 );
